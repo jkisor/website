@@ -2,7 +2,6 @@
 layout: post
 title:  "Displaying Game Server Population in MacOS status bar"
 date:   2021-08-26 00:00:00 -0400
-categories: xbar
 ---
 
 # Displaying Game Server Population in MacOS status bar
