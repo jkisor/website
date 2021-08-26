@@ -14,7 +14,7 @@ See the code on Github: [here](https://github.com/jkisor/ac_pop_xbar/blob/main/a
 
 ## About the Game
 
-[Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call) is an MMORPG that was released in 1999. It was a game with a vast world to explore alongside potentially hundreds or thousands of other adventurers. I played off and on over the years for a nostalgic trip. Unfortunately the official servers were shutdown in 2017, however, the community has worked hard to emulate the server code. The private server I visit these days ([Levistras](https://acportalstorm.com/)) is running on of the server emulators called [ACEmulator](https://github.com/ACEmulator/ACE).
+[Asheron's Call](https://en.wikipedia.org/wiki/Asheron%27s_Call) is an MMORPG that was released in 1999. It was a game with a vast world to explore alongside potentially hundreds or thousands of other adventurers. I played off and on over the years for a nostalgic trip. Unfortunately the official servers were shutdown in 2017, however, the community has worked hard to emulate the server code. The private server I visit these days ([Levistras](https://acportalstorm.com/)) is running [ACEmulator](https://github.com/ACEmulator/ACE).
 
 ## Obtaining server data
 
