@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Displaying Game Server Population in MacOS status bar"
+title:  "Displaying Game Server Population in MacOS menu bar"
 date:   2021-08-26 00:00:00 -0400
 ---
 
-# Displaying Game Server Population in MacOS status bar
+# Displaying Game Server Population in MacOS menu bar
 
 My goal with this project was to know, at a glance, how many people are connect to the game server and to look at my character stats easily from outside the game.
 
