@@ -11,7 +11,7 @@ See the code on Github: [here](https://github.com/jkisor/assert/blob/a3712d0327e
 I've always wondered about authors of testing libraries. They clearly have some experience with testing. How do they test their testing library? Is it necessary to use a competing testing library to start?
 Is it possible to "dog-food"? Wouldn't it be cool if I could write a small testing library, test-first, using itself.
 
-I had so much fun doing this exercise that I thought it would make greak content to walk through. It's also brief, allowing me to show some of the subtile small steps to pull it off.
+I had so much fun doing this exercise that I thought it would make great content to walk through. It's also brief, allowing me to show some of the subtile small steps to pull it off.
 
 ## Test #1 - No tests succeeds
 Using a test-first workflow, we start with a failing test. The first test would be to run a ruby script that doesn't exist yet.
