@@ -6,6 +6,8 @@ date:   2021-10-14 12:31:21 -0400
 
 Automated tests are a beautiful thing to have. Unfortunately, not all tests are created equally. Poorly written tests could be slow, fragile, or flaky. Today I'll share a way to locate test that fail at irregular intervals aka "flaky" tests. One test run an example will pass, another run it will fail. It is a flickering that can add unhelpful waste to your workflow such as surprising failures in your continious delivery (CD) builds.
 
+See the full code on [GitHub](https://github.com/jkisor/flaky_finder)
+
 ## Collecting Samples
 The strategy that I'll suggest here is to run your test suite multiple times (perhaps 10) and output the results to a JSON file for later analysis. This approach makes use of RSpecs default random order and it's [JSON formatter](https://relishapp.com/rspec/rspec-core/docs/formatters/json-formatter) (`--format j`)
 
