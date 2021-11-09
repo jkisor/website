@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Jobs
+## Experience
 - ID.me 
   - Tech Lead 
   - Nov 2014 - Oct 2021 (7 years)
