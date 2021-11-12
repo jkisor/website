@@ -204,7 +204,7 @@ assert_error(-> { assert(false) })
 
 ## Refactor: Lambda to block
 
-Next we switch from lambda to block as it's a bit more conventional in ruby that passing a lambda. It's also a little less heavy on the syntax.
+Next we switch from lambda to block as it's a bit more conventional in ruby than passing a lambda. It's also a little less heavy on the syntax.
 
 ```
 def assert_error(&block)
