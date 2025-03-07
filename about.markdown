@@ -5,6 +5,9 @@ permalink: /about/
 ---
 
 ## Experience
+- COFENSE
+  - Software Engineer III
+  - Dec 2021 - Feb 2025 (3 years)
 - ID.me 
   - Tech Lead 
   - Nov 2014 - Oct 2021 (7 years)
@@ -20,5 +23,5 @@ permalink: /about/
 
 
 ## Education
-Full Sail University ( 2006 - 2008 )
+Full Sail University
 - Bachelor's of Science in Game Development
